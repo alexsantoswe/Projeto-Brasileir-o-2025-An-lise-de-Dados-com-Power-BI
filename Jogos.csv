@@ -1,0 +1,209 @@
+﻿Rodada;Time Casa;Gols Casa;Gols Fora;Time Fora
+1ª RODADA;Cruzeiro;2;1;Mirassol
+;Fortaleza;2;0;Fluminense
+;Grêmio;2;1;Atlético-MG
+;Juventude;2;0;Vitória
+;São Paulo;0;0;Sport
+;Flamengo;1;1;Internacional
+;Palmeiras;0;0;Botafogo
+;Vasco;2;1;Santos
+;Bahia;1;1;Corinthians
+;Bragantino;2;2;Ceará
+;;;;
+2ª RODADA;Corinthians;3;0;Vasco
+;Ceará;2;0;Grêmio
+;Botafogo;2;0;Juventude
+;Fluminense;2;1;Bragantino
+;Internacional;3;0;Cruzeiro
+;Mirassol;1;1;Fortaleza
+;Sport;1;2;Palmeiras
+;Vitória;1;2;Flamengo
+;Santos;2;2;Bahia
+;Atlético-MG;0;0;São Paulo
+;;;;
+3ª RODADA ;Bragantino;1;0;Botafogo
+;Juventude;2;1;Ceará
+;Palmeiras;2;0;Corinthians
+;Fluminense;1;0;Santos
+;Atlético-MG;2;2;Vitória
+;Grêmio;0;2;Flamengo
+;Paulo;1;1;Cruzeiro
+;Bahia;1;1;Mirassol
+;Fortaleza;0;0;Internacional
+;Vasco;3;1;Sport
+;;;;
+4ª RODADA ;Flamengo;6;0;Juventude
+;Santos;2;0;Atlético-MG
+;Mirassol;4;1;Grêmio
+;Vitória;2;1;Fortaleza
+;Botafogo;2;2;São Paulo
+;Internacional;0;1;Palmeiras
+;Ceará;2;1;Vasco
+;Corinthians;0;2;Fluminense
+;Sport;0;1;Bragantino
+;Cruzeiro;3;0;Bahia
+;;;;
+5ª RODADA ;Corinthians;2;1;Sport
+;Vasco;0;0;Flamengo
+;Bahia;1;0;Ceará
+;Fluminense;1;1;Vitória
+;Fortaleza;1;2;Palmeiras
+;Atlético-MG;1;0;Botafogo
+;São Paulo;2;1;Santos
+;Grêmio;1;1;Internacional
+;Bragantino;1;0;Cruzeiro
+;Juventude;2;2;Mirassol
+;;;;
+6ª RODADA ;Botafogo;2;0;Fluminense
+;Flamengo;4;0;Corinthians
+;Palmeiras;0;1;Bahia
+;Cruzeiro;1;0;Vasco
+;Internacional;3;1;Juventude
+;Sport;0;0;Fortaleza
+;Ceará;1;1;São Paulo
+;Mirassol;2;2;Atlético-MG
+;Vitória;1;1;Grêmio
+;Santos;1;1;Bragantino
+;;;;
+7ª RODADA ;Corinthians;4;2;Internacional
+;Fluminense;2;1;Sport
+;Ceará;1;0;Vitória
+;Bahia;1;0;Botafogo
+;Vasco;0;1;Palmeiras
+;Juventude;0;1;Atlético-MG
+;Bragantino;1;0;Mirassol
+;Cruzeiro;2;1;Flamengo
+;Grêmio;1;0;Santos
+;São Paulo;0;0;Fortaleza
+;;;;
+8ª RODADA ;Fortaleza;5;0;Juventude
+;Grêmio;1;1;Red Bull Bragantino
+;Mirassol;2;1;Corinthians
+;Vitória;2;1;Vasco
+;Flamengo;1;0;Bahia
+;Sport;0;4;Cruzeiro
+;Atlético-MG;3;2;Fluminense
+;Palmeiras;1;0;São Paulo
+;Botafogo;4;0;Internacional
+;Santos;0;0;Ceará
+;;;;
+9ª RODADA ;Fortaleza;5;0;Juventude
+;Grêmio;1;1;Red Bull Bragantino
+;Mirassol;2;1;Corinthians
+;Vitória;2;1;Vasco
+;Flamengo;1;0;Bahia
+;Sport;0;4;Cruzeiro
+;Atlético-MG;3;2;Fluminense
+;Palmeiras;1;0;São Paulo
+;Botafogo;4;0;Internacional
+;Santos;0;0;Ceará
+;;;;
+10ª RODADA;Fluminense;2;1;Vasco
+;São Paulo;0;2;Mirassol
+;Atlético-MG;0;0;Corinthians
+;Grêmio;1;0;Bahia
+;Palmeiras;0;2;Flamengo
+;Sport;1;1;Internacional
+;Vitória;0;1;Santos
+;Fortaleza;0;2;Cruzeiro
+;Bragantino;1;0;Juventude
+;Botafogo;3;2;Ceará
+;;;;
+11ª RODADA ;Bahia;2;1;São Paulo
+;Vasco;0;2;Bragantino
+;Mirassol;1;0;Sport
+;Juventude;0;2;Grêmio
+;Santos;0;1;Botafogo
+;Ceará;0;1;Atlético-MG
+;Corinthians;0;0;Vitória
+;Flamengo;5;0;Fortaleza
+;Cruzeiro;2;1;Palmeiras
+;Internacional;0;2;Fluminense
+;;;;
+12ª RODADA ;Atlético-MG;2;0;Internacional
+;São Paulo;1;3;Vasco
+;Grêmio;1;1;Corinthians
+;Fortaleza;2;3;Santos
+;Bragantino;0;3;Bahia
+;Vitória;0;0;Cruzeiro
+;Fluminense;;;Ceará
+;Botafogo;;;Mirassol
+;Palmerias;;;Juventude
+;Sport;;;Flamengo
+;;;;
+13ª RODADA ;Internacional;1;0;Vitória
+;Flamengo;2;0;São Paulo
+;Vasco;0;2;Botafogo
+;Bahia;2;1;Atlético-MG
+;Corinthians;1;2;Bragantino
+;Santos;;;Palmeiras
+;Mirassol;;;Fluminense
+;Cruzeiro;4;1;Grêmio
+;Fortaleza;0;1;Ceará
+;Juventude;2;1;Sport
+;;;;
+14ª RODADA ;Palmeiras;1;1;Mirassol
+;Ceará;0;1;Corinthians
+;Santos;1;0;Flamengo
+;Botafogo;0;0;Vitória
+;Bragantino;2;2;São Paulo
+;Fluminense;0;2;Cruzeiro
+;Atlético-MG;;;Sport
+;Grêmio;2;1;Fortaleza
+;Bahia;;;Internacional
+;Juventude;2;0;Vasco
+;;;;
+15ª RODADA ;Fortaleza;1;1;Bahia
+;Vasco;1;1;Grêmio
+;Mirassol;3;0;Santos
+;São Paulo;2;0;Corinthians
+;Internacional;1;0;Ceará
+;Cruzeiro;4;0;Juventude
+;Vitória;1;0;Bragantino
+;Palmeiras;3;2;Atlético-MG
+;Sport;0;1;Botafogo
+;Flamengo;1;0;Fluminense
+;;;;
+16ª RODADA;Ceará;0;0;Mirassol
+;Fluminense;1;2;Palmeiras
+;Corinthians;0;0;Cruzeiro
+;Santos;1;2;Internacional
+;Bragantino;1;2;Flamengo
+;Vitória;2;2;Sport
+;Juventude;0;1;São Paulo
+;Vasco;;;Bahia
+;Atlético-MG;;;Fortaleza
+;Grêmio;;;Botafogo
+;;;;
+17ª RODADA;Botafogo;1;1;Corinthians
+;Fortaleza;3;1;Bragantino
+;Mirassol;1;1;Vitória
+;Sport;2;2;Santos
+;Palmeiras;1;0;Grêmio
+;Cruzeiro;1;2;Ceará
+;São Paulo;3;1;Fluminense
+;Bahia;3;0;Juventude
+;Internacional;1;1;Vasco
+;Flamengo;1;0;Atlético-MG
+;;;;
+18ª RODADA;Sport;0;0;Bahia
+;Mirassol;3;2;Vasco
+;Fluminense;1;0;Grêmio
+;Botafogo;0;2;Cruzeiro
+;Corinthians;1;1;Fortaleza
+;Atlético-MG;2;1;Bragantino
+;Ceará;1;1;Flamengo
+;Internacional;1;2;São
+;Vitória;2;2;Palmeiras
+;Santos;3;1;Juventude
+;;;;
+19ª RODADA ;Bragantino;1;3;Internacional
+;Flamengo;2;1;Mirassol
+;São;2;0;Vitória
+;Fortaleza;0;5;Botafogo
+;Bahia;3;3;Fluminense
+;Palmeiras;2;1;Ceará
+;Vasco;1;1;Atlético-MG
+;Cruzeiro;1;2;Santos
+;Grêmio;0;1;Sport
+;Juventude;2;1;Corinthians
