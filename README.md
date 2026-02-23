@@ -28,7 +28,8 @@ Visualizações organizadas por temáticas analíticas
 
 📈 Análise 1: Desempenho dos Times e Jogadores
 🎯 Objetivos
-
+![Dashboard Público](Downloads/principal.jpeg)
+![Dashboard Público](Downloads/est.jpeg)
 Identificar os times com melhor desempenho ofensivo e defensivo
 Avaliar artilheiros e líderes de assistências
 Comparar aproveitamento e posição na tabela
@@ -47,6 +48,7 @@ Análise de consistência competitiva
 
 👥 Análise 2: Público e Comportamento dos Torcedores
 🎯 Objetivos
+![Dashboard Público](Downloads/dados.jpeg)
 Avaliar média de público por rodada
 Identificar clubes com maior engajamento
 Analisar variação de público conforme desempenho
