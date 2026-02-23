@@ -91,9 +91,3 @@ Evoluir dashboard com métricas avançadas
 Sobre Mim
 Este projeto faz parte da minha transição para a área de Análise de Dados.
 Busco oportunidades como Analista de Dados Jr ou BI Jr, aplicando SQL, Python e Power BI para transformar dados em insights estratégicos.
-
-
-![Dashboard](principal.png)
-![Dashboard](est.png)
-![Dashboard](dados.png)
-
