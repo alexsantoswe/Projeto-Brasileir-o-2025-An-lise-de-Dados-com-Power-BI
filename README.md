@@ -1,4 +1,4 @@
-📊 Análise de Dados do Brasileirão 2025 | Power BI + EDA
+📊 Análise de Dados do Brasileirão 2025 | Power BI, EDA e Modelagem de Dados
 🎯 Objetivo do Projeto
 
 Transformar dados brutos do Campeonato Brasileiro 2025 em insights estratégicos por meio de análise exploratória e visualização interativa no Power BI.
@@ -83,7 +83,9 @@ Modelagem de Dados
 Construção de KPIs
 Análise Exploratória de Dados (EDA)
 Storytelling com Dados
-Versionamento com Git
+Versionamento de código com Git e GitHub
+Manipulação de dados em CSV
+Construção de métricas orientadas a negócio
 
 🔮 Próximos Passos
 Automatizar coleta de dados via API
@@ -92,5 +94,7 @@ Migrar estrutura para banco de dados SQL
 Evoluir para análises preditivas
 
 👨‍💻 Sobre Mim
-Este projeto faz parte da minha transição para a área de Análise de Dados e Business Intelligence.
-Busco oportunidades como Analista de Dados Jr ou BI Jr, aplicando SQL, Python e Power BI para transformar dados em insights estratégicos e gerar impacto real nas decisões de negócio.
+Sou profissional em transição para a área de Dados, com base em SQL, Python e Power BI.
+Tenho experiência com suporte técnico, o que fortaleceu minha visão analítica, resolução de problemas e atenção a detalhes.
+
+Busco oportunidade como Analista de Dados Jr ou BI Jr para aplicar análise exploratória, modelagem de dados e construção de dashboards voltados à tomada de decisão.
